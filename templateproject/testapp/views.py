@@ -3,7 +3,7 @@ import datetime
 import random
 
 
-# Create your views here.
+# please Create your views here.
 
 def results1_view(request):
     get_date_time = datetime.datetime.now()
