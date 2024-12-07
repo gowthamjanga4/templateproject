@@ -4,7 +4,7 @@ import random
 
 
 # please Create your views here.
-
+# first view
 def results1_view(request):
     get_date_time = datetime.datetime.now()
     my_dict = {'get_date_time': get_date_time}
